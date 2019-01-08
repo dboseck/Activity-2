@@ -11,7 +11,7 @@ body{
 
 header{
     
-    height: 150px;
+    height: 125px;
     text-align: center;
     font-size: 200%;
     line-height: 500%;
@@ -37,6 +37,10 @@ nav ul li a{
     text-align: center;
     padding: 20px 10px;
     text-decoration: none;
+}
+
+nav ul li a:hover{
+    background-color: #abb2b9;
 }
 
 .picture{
