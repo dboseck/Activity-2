@@ -5,6 +5,7 @@ body{
     background-color: #344;
     border-style: solid;
     border-color: black;
+	border-radius: 5px;
 	color: white;
 	height: 100%;
 }
@@ -52,7 +53,7 @@ nav ul li a:hover{
 }
 
 #dynamic{
-	max-width: 940px;
+	max-width: 900px;
 	margin: 0 auto;
 }
 
